@@ -1,4 +1,7 @@
-<img width="600" height="280" alt="images" src="https://github.com/user-attachments/assets/a9dcd7c8-6607-47df-a38e-d04ec4a7248c" />
+<p align="center">
+  <img width="600" height="280" alt="images" src="https://github.com/user-attachments/assets/a9dcd7c8-6607-47df-a38e-d04ec4a7248c" />
+</p>
+
 
 # KantoDB
 ---
