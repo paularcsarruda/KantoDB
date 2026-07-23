@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/sql-blue) ![Static Badge](https://img.shields.io/badge/postgresql-green) ![Static Badge](https://img.shields.io/badge/projeto_em_constru%C3%A7%C3%A3o-red)
 <p align="center">
   <img width="600" height="280" alt="images" src="https://github.com/user-attachments/assets/a9dcd7c8-6607-47df-a38e-d04ec4a7248c" />
 </p>
